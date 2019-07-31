@@ -1,1 +1,1 @@
-# terraform-vault-jenkins-demo
+# terraform-jenkins-vault-demo
